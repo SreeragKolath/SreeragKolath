@@ -1,7 +1,6 @@
 **Hi there, I'm** [SREERAG K](https://www.linkedin.com/in/sreerag-radhakrishnan-599036130/) :raised_hand_with_fingers_splayed:
 
-I'm passionate about Artificial Intelligence, Machine Learning and Natural Language Processing. I am currently working as **AI ENGINEER** in **Techversant Infotech**
-
+I'm passionate about Artificial Intelligence, Machine Learning and Natural Language Processing. I am currently working as **SOFTWARE ENGINEER** in **Techversant Infotech.**If you have an idea related to my areas of interest, feel free to shoot me at [LinkedIn](https://www.linkedin.com/in/sreerag-radhakrishnan-599036130/)!
 
 ## Skills:
 
