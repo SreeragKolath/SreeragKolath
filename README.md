@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/31788971/209655948-741dd1eb-20ee-4ad2-8b85-e5d643127420.png)
-## About
+![image](https://user-images.githubusercontent.com/31788971/209655948-741dd1eb-20ee-4ad2-8b85-e5d643127420.png) **About**
 ![image](https://user-images.githubusercontent.com/31788971/209655739-d451d97f-47a4-4ead-bbe7-00210b8ed921.png)
 
 ## Connect
