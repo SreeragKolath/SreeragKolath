@@ -1,6 +1,6 @@
 **Hi there, I'm** [SREERAG K](https://www.linkedin.com/in/sreerag-radhakrishnan-599036130/) :raised_hand_with_fingers_splayed:
 
-I am a third year Machine Learning Ph.D. candidate at Federation University, Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+
 
 ## Skills:
 
