@@ -4,7 +4,7 @@ I am a third year Machine Learning Ph.D. candidate at Federation University, Aus
 
 ## Skills:
 
-**Languages:
+**Languages:**
 
 ![image](https://user-images.githubusercontent.com/31788971/209658756-02ac0896-c853-4913-8e77-b940e115c44d.png)
 
