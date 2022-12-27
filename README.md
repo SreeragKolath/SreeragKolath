@@ -3,7 +3,7 @@
 
 🔭 I'm passionate about Artificial Intelligence, Machine Learning and Natural Language Processing. I'm curently working as AI Software Engineer in Techversant Infotech.
 
-👉🏼 Feel free to follow me on [LinkedIn](https://www.linkedin.com/in/sreerag-radhakrishnan-599036130/)
+👉🏼 **Feel free to follow me on** [LinkedIn](https://www.linkedin.com/in/sreerag-radhakrishnan-599036130/)
 
 
 
