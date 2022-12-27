@@ -1,7 +1,7 @@
 
 ##  > Hello World!, I am SREERAG K
 
-## About:
+## About
 
 🔭 I'm passionate about Artificial Intelligence, Machine Learning and Natural Language Processing. I'm curently working as Associate Software Engineer(AI/ML) in Techversant Infotech
 
