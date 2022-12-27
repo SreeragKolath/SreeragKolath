@@ -5,6 +5,8 @@
 
 👉🏼 **Feel free to follow me on** [LinkedIn](https://www.linkedin.com/in/sreerag-radhakrishnan-599036130/)
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
