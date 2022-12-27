@@ -16,6 +16,9 @@ I am a third year Machine Learning Ph.D. candidate at Federation University, Aus
 
 ![image](https://user-images.githubusercontent.com/31788971/209659589-3685127f-badc-41e9-a28e-c531ff373d09.png)
 
+**Tools and Technologies:**
+
+![image](https://user-images.githubusercontent.com/31788971/209659757-de513454-6c4b-40b4-9c90-10e587221759.png) ![image](https://user-images.githubusercontent.com/31788971/209659707-7028fb84-3819-4bcb-897d-3e2a923f3074.png)
 
 
 ## Connect
