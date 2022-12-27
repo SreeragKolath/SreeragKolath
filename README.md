@@ -6,7 +6,8 @@ I am a third year Machine Learning Ph.D. candidate at Federation University, Aus
 
 **Languages:**
 
-![image](https://user-images.githubusercontent.com/31788971/209658756-02ac0896-c853-4913-8e77-b940e115c44d.png)
+![image](https://user-images.githubusercontent.com/31788971/209658756-02ac0896-c853-4913-8e77-b940e115c44d.png) ![image](https://user-images.githubusercontent.com/31788971/209658931-53ea3411-e389-461d-b10d-5eed9d8bd932.png)
+
 
 
 ## Connect
