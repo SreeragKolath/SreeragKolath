@@ -1,7 +1,4 @@
 ### Hi I'm SREERAG K👋
-
-AI SDE | Certified Coding Teacher | Mentor | Instructor | Designer | HackerRank * 1
-
          
 
 Here are some ideas to get you started:
