@@ -1,13 +1,5 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
-    </div>
-</foreignObject>
-</svg>
+**Hi there, I'm SREERAG K**
+I am a third year Machine Learning Ph.D. candidate at Federation University, Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
 
 ## Connect
