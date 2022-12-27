@@ -25,7 +25,8 @@ I am a third year Machine Learning Ph.D. candidate at Federation University, Aus
 ![image](https://user-images.githubusercontent.com/31788971/209659923-101b99f4-f13f-4f2a-99d6-5c7d8da6ba39.png) ![image](https://user-images.githubusercontent.com/31788971/209659992-df7c91c5-628e-40f9-82ef-7c92fa477193.png) ![image](https://user-images.githubusercontent.com/31788971/209660058-d7016d64-bc5e-4c96-a264-fcaf7058c200.png) ![image](https://user-images.githubusercontent.com/31788971/209660107-8fa3193c-ec37-4a5f-bc19-689f4ab21a3c.png) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-Connect:
+## Connect:
+
 <a href="https://www.linkedin.com/in/sreerag-radhakrishnan-599036130/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><a> <a href="https://mail.google.com/mail/u/1/#inbox?compose=new"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a> <a href="https://twitter.com/KolathSreerag"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"><a> <a href="https://www.kaggle.com/sreeragkolath"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"><a>
   
 
