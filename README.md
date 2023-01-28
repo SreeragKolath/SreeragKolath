@@ -38,7 +38,7 @@ I'm passionate about Artificial Intelligence, Machine Learning and Natural Langu
   
   
 
-| Command | Description |
+| Content | Github | Substack |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| test | test | test |
+
