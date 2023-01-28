@@ -38,8 +38,7 @@ I'm passionate about Artificial Intelligence, Machine Learning and Natural Langu
   
   
 
-# Daily Learning
-
-| Content | Github | Substack |
+| Command | Description |
 | --- | --- |
-|  |  |  |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
