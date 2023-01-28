@@ -37,9 +37,5 @@ I'm passionate about Artificial Intelligence, Machine Learning and Natural Langu
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
   
 
-## Daily Learning:
 
-| Content | Github | Substack |
-| --- | --- | --- |
-| Github cheatsheet |🔗(https://github.com/SreeragKolath/gitcommands_cheatsheet) | 🔗(https://sreerag.substack.com/p/github-cheatsheet) |
 
