@@ -41,5 +41,5 @@ I'm passionate about Artificial Intelligence, Machine Learning and Natural Langu
 
 | Content | Github | Substack |
 | --- | --- | --- |
-| test |🔗(https://github.com/SreeragKolath/gitcommands_cheatsheet) | 🔗 |
+| Github cheatsheet |🔗(https://github.com/SreeragKolath/gitcommands_cheatsheet) | 🔗(https://sreerag.substack.com/p/github-cheatsheet) |
 
