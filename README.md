@@ -39,6 +39,6 @@ I'm passionate about Artificial Intelligence, Machine Learning and Natural Langu
   
 
 | Content | Github | Substack |
-| --- | --- |
+| --- | --- | --- |
 | test | test | test |
 
